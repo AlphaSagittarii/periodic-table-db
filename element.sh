@@ -29,8 +29,3 @@ else
     echo "Please provide an element as an argument."
   fi
 fi
-
-
-
-
-# combine tables and use one function for the code
